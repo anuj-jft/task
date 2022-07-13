@@ -1,0 +1,56 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box
+{
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 500px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+}
+
+.radio-button
+{
+    margin : 40px 30px;
+}
+
+.radio
+{
+    font-size: 30px;
+    padding: 8px;
+}
+
+.s-box
+{
+    border: 1px solid black;
+    display: inline-block;
+    margin: 20px 30px;
+    width: 73px;
+    padding: 10px;
+    text-align: center;
+    background-color: yellowgreen;
+}
+button
+{
+   text-align: center;
+   width: 150px;
+   height: 40px;
+   background-color: green;
+   font-size: 20px;
+   font-weight: bolder;
+   color: white;
+   margin: 20px 0px 0px 165px;
+}
